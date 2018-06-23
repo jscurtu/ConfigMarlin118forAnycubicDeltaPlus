@@ -1,6 +1,6 @@
 # ConfigMarlin118forAnycubicDeltaPlus
 
-This is an "unofficial but working" Marilin 1.1.8 configuration files for Anycubic Delta Plus
+This an "unofficial but working" Marlin 1.1.8 configuration for Anycubic Delta Plus
 
 These header files have been created to adapt Marlin 1.1.8 to the Anycubic Delta Plus printer.
 
