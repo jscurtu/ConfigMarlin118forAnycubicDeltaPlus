@@ -23,6 +23,6 @@ If you are lazy about compiling and uploading with the Arduino IDE, you can use 
 
 **Config for Slic3r**
 
-The "slic3r" folder contains profile used for testing with Slic3r
+The "slic3r" folder contains the configuration used for testing with Slic3r.
 
 
