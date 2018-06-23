@@ -11,10 +11,13 @@ This version of Marlin has important improvements compared to the previous ones.
 **How it works**
 
 You only need to copy these two files overwriting the ones in the marlin folder of the official distribution, which you can find here:
+
 https://github.com/MarlinFirmware/Marlin
+
 https://github.com/MarlinFirmware/Marlin/releases/tag/1.1.8
 
 Then you must compile and upload to the Trigorilla board of your printer, following the instructions that you will find here:
+
 http://marlinfw.org/docs/basics/install.html
 
 **Compiled version**
